@@ -92,7 +92,7 @@ function ChatGPT() {
   return (
     <Main>
        <Navbar/> 
-        changes are going on.....
+        under developement...
        <Container>
          <Info>
                 <img src="https://cdn.sanity.io/images/2ej9qrfy/production/73d095f3497e7e34069ccc5b2e2f75b210578742-1024x486.jpg" alt="img" />
