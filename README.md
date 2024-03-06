@@ -1,6 +1,7 @@
 # AI Model Hub
 
 Welcome to the AI Model Hub! This project aims to provide a centralized platform for accessing various AI models, showcasing trending models, and allowing users to experiment with these models conveniently. The frontend is built using React with styled-components CSS, and the backend is powered by Sanity.
+Visit the App: - https://ai-spaceone.vercel.app/
 
 ## Features
 
