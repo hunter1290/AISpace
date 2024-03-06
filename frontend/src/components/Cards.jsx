@@ -47,7 +47,7 @@ function Cards({key,name,desc,img}) {
     <Main>
       <img src={img} alt="" />
        <h2>{name}</h2>
-       {name=='ChatGPT'?<button onClick={goTo}>Try it</button>:<>Comming soon</>}
+       {name=='ChatGPT'?<button onClick={goTo}>Try it</button>:<>Coming soon</>}
     </Main>
   )
 }
