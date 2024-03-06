@@ -15,7 +15,7 @@ function ChatGPT() {
   return (
     <Main>
        <Navbar/>
-       Trying functionality under development you can try this model on offical website
+       Current functionality under development you can try this model on official website
        <br />
        <a href="https://chat.openai.com/" target="_blank">Click Here</a>
     </Main>
